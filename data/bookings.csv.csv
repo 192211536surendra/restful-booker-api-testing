@@ -1,0 +1,6 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds,expectedStatus
+Ravi,Kumar,500,true,2026-11-01,2026-11-03,Breakfast,200
+Anita,Sharma,750,false,2026-12-10,2026-12-15,Lunch,200
+John,Smith,1200,true,2027-01-05,2027-01-08,Dinner,200
+Priya,Reddy,300,false,2026-11-20,2026-11-21,Breakfast,200
+Test,User,0,true,2026-11-01,2026-11-02,None,200
